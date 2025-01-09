@@ -6,11 +6,12 @@ import { ContactComponent } from './components/contact/contact.component';
 import { NavbarComponent } from './components/navbar/navbar.component';
 import { FooterComponent } from './components/footer/footer.component';
 import { ProtofolioComponent } from "./components/protofolio/protofolio.component";
+import { NotFoundComponent } from "./components/not-found/not-found.component";
 
 
 @Component({
   selector: 'app-root',
-  imports: [RouterOutlet, AboutComponent, HomeComponent, ContactComponent, NavbarComponent, FooterComponent, ProtofolioComponent],
+  imports: [RouterOutlet, AboutComponent, HomeComponent, ContactComponent, NavbarComponent, FooterComponent, ProtofolioComponent, NotFoundComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })

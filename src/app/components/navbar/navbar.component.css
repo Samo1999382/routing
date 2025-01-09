@@ -1,0 +1,15 @@
+.main{
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.sub{
+    text-transform: uppercase;
+    margin: 8px;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    font-weight: 700;
+}

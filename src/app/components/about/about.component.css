@@ -1,0 +1,25 @@
+h2{
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.bord{
+    height: 4px;
+    margin: 0 15px;
+    background-color: #fff;
+    width: 80px;
+}
+
+i{
+    color: #fff;
+}
+
+p{
+    color: #fff;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+}
